@@ -32,7 +32,7 @@ pip install requests beautifulsoup4
 3. 运行 `翻译脚本.py` 文件，执行翻译操作。
 
 ```bash
-python translate_script.py
+python htmlts.py
 ```
 
 4. 翻译完成后，结果将保存在 `translated_help_preview.html` 文件中。
